@@ -5,6 +5,7 @@ description: Prebid Between Bidder Adaptor
 pbjs: true
 pbs: true
 biddercode: between
+media_types: banner
 schain_supported: true
 gdpr_supported: true
 tcf2_supported: true
